@@ -1,0 +1,13 @@
+.comments {
+  padding: 1rem;
+}
+
+.p-l-20 {
+  padding-left: 20px;
+}
+
+pre {
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
